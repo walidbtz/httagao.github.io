@@ -1,0 +1,261 @@
+body {
+    font-family: 'AL-Mohanad';
+}
+
+a.NavLeftUL_anchor,
+.moduletable_menu li a,
+.sidebar .menu li a,
+.topic_faqToggleQuestion,
+.faq-item h3,
+.item-page h3,
+.page-header h2,
+.news-item .title,
+.news-item .title,
+.mod_insights h4,
+.sub-header,
+.footer-right h3,
+.footer .subscribe_from h3 {
+    font-family: 'Hacen Extender X4 Super Fit';
+}
+
+.mid-content .moduletable h2,
+.title-text h1,
+.item-page h2 {
+    font-family: 'Hacen Extender X4';
+}
+
+.moduletable_toplogo {
+    float: right;
+}
+
+.moduletable.social-menu,
+.moduletable.lang_switcher {
+    float: left;
+}
+
+.social-menu ul {
+    float: left;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.moduletable_search {
+    float: left;
+}
+
+.moduletable_menu {
+    float: left;
+    clear: left;
+}
+
+.moduletable_menu .menu li {
+    float: right;
+}
+
+.dropdown-menu {
+    text-align: right;
+}
+
+#why-integrateme-ar h3 img,
+#our-philosophy-ar img,
+#our-code-of-conduct-ar img,
+#our-workstyle-ar img,
+#corporate-profile-ar img,
+#consulting-services-ar img,
+#integrateme-affiliation-ar img,
+#business-development-ar img,
+#information-technology-ar img,
+#digital-transformation-ar img,
+#our-values-ar img {
+    height: 50px;
+    width: auto;
+    margin-right: 0px;
+    margin-left: 15px;
+}
+
+p.readmore,
+.service-item .readmore {
+    text-align: left;
+}
+
+.about-us img {
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12 {
+    float: right;
+}
+
+.title-img {
+    float: right;
+}
+
+.title-text h1 {
+    text-indent: 0px;
+}
+
+.testimonials .writer {
+    text-align: left;
+}
+
+.icon-right-quotation {
+    bottom: auto;
+    top: -10px;
+}
+
+.icon-left-quotation {
+    top: auto;
+    bottom: -10px;
+    ;
+}
+
+.footer .menu li {
+    border-right: none;
+    border-left: 1px solid #fff;
+}
+
+.footer .nav>li>a {
+    padding: 0px 5px;
+    font-size: 12px;
+}
+
+.footer .menu li:last-child {
+    border-left: 0px;
+}
+
+.icon-location {
+    float: right;
+}
+
+.icon-phone,
+.icon-mail {
+    padding-left: 9px;
+    padding-right: 0px;
+}
+
+.footer {
+    background: url('../images/background.jpg') no-repeat right bottom;
+    background-size: contain;
+    background-color: #073e5a;
+}
+
+.footer .row-fluid,
+.contact-page .row-fluid {
+    float: right;
+}
+
+#recaptcha_143,
+#recaptcha_144 {
+    width: 60%;
+    float: right;
+}
+
+.control-group-button {
+    width: 40%;
+    float: right;
+}
+
+.moduletable_menu li a {
+    font-size: 25px;
+    padding: 5px 10px;
+}
+
+.menu li ul li a {
+    font-size: 18px;
+}
+
+body {
+    font-size: 19px;
+}
+
+.col-md-offset-1 {
+    margin-right: 8.33333333%;
+    margin-left: 0%;
+}
+
+.mid-content .moduletable h2 {
+    font-size: 80px;
+}
+
+.topic_faqToggleQuestion,
+.faq-item h3,
+.item-page h3,
+.page-header h2,
+.news-item .title,
+.news-item .title,
+.mod_insights h4,
+.sub-header,
+.footer-right h3,
+.footer .subscribe_from h3 {
+    font-size: 28px;
+}
+
+.package-item a {
+    font-size: 23px;
+}
+
+.sidebar .menu li a {
+    font-size: 18px;
+}
+
+.footer .footer-social-menu li a {
+    font-size: 28px;
+    padding: 0;
+}
+
+.nav.menu.footer-social-menu {
+    margin: 0;
+    padding: 0;
+}
+
+#why-integrateme-ar li,
+#strategic-business-planning-ar li,
+#marketing-strategies-ar li,
+#services-relationship-marketing-ar li,
+#information-technology-ar li,
+#business-development-ar li,
+#consulting-services-ar ul li,
+#integrateme-affiliation-ar ul li,
+#our-code-of-conduct-ar ul li {
+    background-position: top right;
+    padding-right: 35px;
+    padding-left: 0;
+}
+
+#who-we-are-ar img {
+    margin-left: 5px;
+}
+
+.code tr td {
+    text-align: right;
+}
+
+.code img {
+    margin-left: 10px;
+}
+
+.job-edit.front-end-edit {
+    overflow: hidden;
+}
+
+.corporate td p {
+    text-align: right;
+}
+
+.phone-section {
+    direction: ltr;
+    display: inline-block;
+}

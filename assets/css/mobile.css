@@ -1,0 +1,184 @@
+/* ===================================
+    Media Queries
+====================================== */
+
+@media (width: 1920px) {}
+
+@media (max-width: 1200px) {
+    .logoPrinciplate {
+        width: 50%;
+    }
+    .heading {
+        font-size: 40px;
+    }
+    /*Side Menu*/
+    .side-menu {
+        width: 50%;
+    }
+}
+
+@media (max-width: 992px) {
+    /*header*/
+    header .pt-5 {
+        padding-top: 0 !important;
+    }
+    .text-left {
+        margin-left: 63%;
+    }
+    .aboutTwo {
+        margin-left: 18%!important;
+        margin-bottom: 18px;
+    }
+    .rightMargin {
+        margin-right: 20% !important;
+        width: 80% !important;
+        font-size: 88% !important;
+    }
+    header .social-icons {
+        display: none;
+    }
+    .section-header-about h3 {
+        font-size: 33px;
+        color: #3590a5;
+        line-height: 45px;
+        font-weight: 700;
+        text-align: center;
+        margin-left: 4%
+    }
+    .section-title:after {
+        content: "";
+        width: 75px;
+        height: 9px;
+        display: none;
+        background: #feb969;
+        position: absolute;
+        top: 75%;
+        z-index: -1;
+    }
+    .mobile-none {
+        display: none;
+    }
+    .ijfRPV {
+        margin-left: 30%;
+    }
+    .lastdev {
+        padding-top: 2%;
+    }
+    .servicess {
+        margin-right: 0px;
+    }
+    .carousel img {
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+    }
+    .fix-right {
+        margin-right: -24%
+    }
+    .video {
+        margin-top: 7%;
+    }
+    .section-header h3 {
+        margin-left: 39%;
+    }
+    .coustm-button {
+        margin-left: 33%;
+    }
+    .button-eng {
+        display: none;
+    }
+    header .nav-logo .logo {
+        float: left;
+        padding-left: 20px;
+    }
+    .sidemenu_btn {
+        left: 89%;
+        display: inline-block;
+        top: -50px;
+    }
+    .header-appear {
+        background-color: #fff;
+        height: 70px;
+        padding: 0;
+        box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
+    }
+    .header-appear .sidemenu_btn {
+        left: 92%;
+        top: 50%;
+    }
+    .header-appear .logo .logo-scrolled {
+        display: block;
+        padding-left: 0;
+    }
+    /*Side-Menu*/
+    .side-menu {
+        width: 100%;
+    }
+    .side-nav .navbar-nav .nav-link {
+        font-size: 40px;
+    }
+    /*Banner Section*/
+    .banner-section .img-section .text-section {
+        position: relative;
+        bottom: 0;
+        left: 0;
+    }
+    .banner-section .img-section .text-section {
+        padding: 50px 5px 0 5px;
+        text-align: center;
+    }
+    .banner-section .img-section .text-section .heading {
+        font-size: 45px;
+    }
+    /*Footer*/
+    footer .social-icons ul li {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    /*StandAlone Page*/
+    .standalone-area .standalone-row {
+        margin-bottom: 60px;
+    }
+    .main-page .standalone-row .row-text {
+        padding-left: 0;
+        padding-bottom: 40px;
+    }
+    .standalone-row:nth-child(2) .row-text {
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    /*header*/
+    .sidemenu_btn {
+        display: inline-block;
+        left: 0%;
+    }
+    .header-appear .sidemenu_btn {
+        left: 88%;
+    }
+    .header-appear .logo .logo-scrolled {
+        padding-left: 12px;
+        width: 29%;
+    }
+    /*Side Menu*/
+    .side-nav .navbar-nav .nav-link {
+        font-size: 21px;
+    }
+    /*Form Section*/
+    .form-section .heading {
+        font-size: 35px;
+    }
+    /*Footer*/
+    footer .text {
+        font-size: 13px;
+    }
+    /*StandAlone Page*/
+    .main-page .standalone-heading .heading {
+        font-size: 36px;
+    }
+    .main-page .standalone-area .heading {
+        font-size: 30px;
+    }
+}
