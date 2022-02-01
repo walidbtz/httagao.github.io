@@ -45,16 +45,6 @@
         text-align: center;
         margin-left: 4%
     }
-    .section-title:after {
-        content: "";
-        width: 75px;
-        height: 9px;
-        display: none;
-        background: #feb969;
-        position: absolute;
-        top: 75%;
-        z-index: -1;
-    }
     .mobile-none {
         display: none;
     }

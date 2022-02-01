@@ -68,7 +68,7 @@ a {
 
 .heading {
     font-size: 48px;
-    color: #000;
+    color: #6ecad5;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
 }
@@ -533,10 +533,19 @@ header .navbar .navbar-nav .nav-link:hover:after {
     position: relative;
 }
 
+.infos {
+    margin-top: 17%;
+    text-align: center;
+}
+
+.gmail {
+    width: 4%;
+}
+
 .ijfRPV {
     text-decoration: none;
     color: rgb(255, 255, 255);
-    background: rgb(116 116 116);
+    background: linear-gradient(30deg, #036c86 50%, #066fd8 100%);
     padding: 1rem 3rem;
     display: inline-block;
     border-radius: 0.5rem;
@@ -584,6 +593,18 @@ header .navbar .navbar-nav .nav-link:hover:after {
     background-color: #2e71c0;
     color: #fff;
     box-shadow: 0 5px 15px rgba(32, 32, 32, 0.4);
+}
+
+.btn-green {
+    background-color: #70b500;
+    color: #fff;
+    width: 100px;
+    box-shadow: 0 5px 15px rgba(32, 32, 32, 0.4);
+}
+
+.btn-green:hover {
+    background-color: #2a7cd3;
+    color: #fff;
 }
 
 
@@ -769,6 +790,17 @@ header .navbar .navbar-nav .nav-link:hover:after {
     color: #495057;
 }
 
+.text-red {
+    color: red
+}
+
+.text-arabic {
+    margin-right: 5%;
+    margin-top: 8%;
+    text-align: right;
+    color: #000;
+}
+
 .icon-blockAbout {
     padding: 7px 20px;
     border-radius: 10px;
@@ -889,7 +921,7 @@ header .navbar .navbar-nav .nav-link:hover:after {
 }
 
 .video {
-    width: 100%;
+    width: 106%;
     margin-top: 3%;
 }
 
@@ -1109,7 +1141,24 @@ footer ul.link-list li a:hover {
     color: #3590a5;
     line-height: 45px;
     font-weight: 700;
-    margin-left: 45%
+    margin-left: 42%
+}
+
+.centerButton {
+    text-align: center;
+}
+
+.btn-services {
+    background-color: #3590a5;
+    color: #fff;
+    box-shadow: 0 5px 15px rgba(32, 32, 32, 0.4);
+    margin-top: 3%;
+    text-align: right !important;
+}
+
+.btn-services:hover {
+    background-color: #065a6d;
+    color: #fff;
 }
 
 .section-titleConsult {
@@ -1130,17 +1179,6 @@ footer ul.link-list li a:hover {
 
 .lastdev {
     padding-top: 7%;
-}
-
-.section-title:after {
-    content: "";
-    width: 75px;
-    height: 9px;
-    display: block;
-    background: #feb969;
-    position: absolute;
-    top: 75%;
-    z-index: -1;
 }
 
 .section-header-about p {
@@ -1169,7 +1207,7 @@ footer ul.link-list li a:hover {
 }
 
 .consultSection {
-    margin-left: 15% !important;
+    margin-left: 8% !important;
     margin-top: 3% !important;
 }
 

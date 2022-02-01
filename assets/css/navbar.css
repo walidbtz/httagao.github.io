@@ -49,8 +49,7 @@
 }
 
 .navbar-nav li {
-    background-color: #fff;
-    border: 2px solid #fff;
+    padding-bottom: 2px;
 }
 
 .navbar-nav li ul {
@@ -61,7 +60,6 @@
     padding: 0;
     position: absolute;
     z-index: 1000;
-    background-color: #17467c;
     color: #fff;
 }
 
@@ -74,7 +72,7 @@
     color: #fff;
     width: 200px;
     border-radius: 0.25rem;
-    background: linear-gradient(30deg, #0070C0 50%, #000000 100%);
+    background: linear-gradient(30deg, #3c90a5 50%, #3580cd 100%);
     font-size: 18px;
 }
 
@@ -82,7 +80,7 @@
     color: #fff;
     width: 200px;
     border-radius: 0.25rem;
-    background: linear-gradient(30deg, #000000 50%, #0070C0 100%);
+    background: linear-gradient(30deg, #036c86 50%, #066fd8 100%);
     font-size: 18px;
 }
 
