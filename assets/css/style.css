@@ -66,6 +66,13 @@ a {
 
 /*Headings and Text*/
 
+.headingGreen {
+    font-size: 48px;
+    color: #70b516;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .heading {
     font-size: 48px;
     color: #6ecad5;
@@ -774,6 +781,10 @@ header .navbar .navbar-nav .nav-link:hover:after {
 
 .text-left {
     margin-left: 73%;
+}
+
+.text-left2 {
+    margin-left: 190px;
 }
 
 .text-left-40 {
